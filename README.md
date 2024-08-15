@@ -2,7 +2,7 @@ Envio de Emails em Massa
 
 Este script permite enviar emails em massa para uma lista de clientes a partir de um arquivo Excel.
 
-Requisitos
+Requisitos <br>
 •	Python 3.x
 •	pandas (instale com pip install pandas)
 
